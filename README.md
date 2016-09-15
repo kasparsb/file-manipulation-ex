@@ -12,3 +12,7 @@ Katrā rindiņā ir vien skaitlis
 2. Atrast lielāko skaitli
 3. Aprēķināt visu skaitļu kopsummu
 4. Aprēķināt vidējo aritmētisko no visiem skaitļiem
+
+Fails words.txt
+Katrā rindā ir vārdi atdalīt ar tukšuma simbolu " "
+Izdrukāt uz ekrāna tās rindiņas, kurās simbolu virkne bas ir kā 2. un pēdējais vārds
